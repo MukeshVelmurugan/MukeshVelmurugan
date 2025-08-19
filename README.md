@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Designing and UI/UX ideas for web and mobile apps**
 
-- 💋 How to reach me **vmukeshofficial@gmail.com**
+- 📤 How to reach me **vmukeshofficial@gmail.com**
 
 - ⚡ Fun fact **“First, solve the problem. Then, write the code.” – John Johnson**
 
